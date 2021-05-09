@@ -1,2 +1,7 @@
+include ':commonlib'
+include ':mime'
+include ':find'
+include ':contract'
+include ':chat'
 include ':app'
 rootProject.name = "Component-Android"
